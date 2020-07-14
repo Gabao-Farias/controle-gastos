@@ -10,10 +10,10 @@
 ## Summary
 * [About](%EF%B8%8F-about)
 * [Screenshots](#%EF%B8%8F-screenshots)
-* [Features](###-features)
-* [Technologies](###-technologies-involved)
-* [Platforms](###-platforms)
-* [Requirements to Run](#-requirements-to-run)
+* [Features](#-features)
+* [Technologies](#%EF%B8%8F-technologies-involved)
+* [Platforms](#-platforms)
+* [Requirements to Run](#%EF%B8%8F-requirements-to-run)
 
 ### ℹ️ About
 This is a basic project made to control and map, where the user's money is coming from or going to.
