@@ -14,7 +14,7 @@
 * [Features](#-features)
 * [Technologies](#%EF%B8%8F-technologies-involved)
 * [Platforms](#-platforms)
-* [Database Management]()
+* [Database Management](#-database-management)
 * [Requirements to Run](#%EF%B8%8F-requirements-to-run)
 
 ### ℹ️ About
