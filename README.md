@@ -9,7 +9,7 @@
 
 ## Summary
 * [About](###-about)
-* [Screenshots](###-screenshots)
+* [Screenshots](#%EF%B8%8F-screenshots)
 * [Features](###-features)
 * [Technologies](###-technologies-involved)
 * [Platforms](###-platforms)
