@@ -41,9 +41,9 @@ This is a basic project made to control and map, where the user's money is comin
 * [Java](https://www.java.com/pt_BR/) ☕
 
 ### 💾 Database management
-* There are two classes wich manages these files, BD_Registros and BD_Usuarios.java
- * BD_Registros is responsible for *R/W* of the registers file
- * BD_Usuarios is responsible for *R/W* of the users file
+* There are two classes wich manages these files, BD_Registros and BD_Usuarios
+  * BD_Registros is responsible for *R/W* of the registers file
+  * BD_Usuarios is responsible for *R/W* of the users file
 
 ### 📵 Platforms
 * PC only 🖥️
