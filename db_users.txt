@@ -1,4 +1,2 @@
 ID;Senha;Nome;Sexo;DataNasc;Telefone Celular; Telefone Fixo;Email;Email Alternativo;Site;Profissão;Jornada de Trabalho;Turno;Valor Líquido;Valor Bruto;Data Recebimento
 0;12345;;;;;;;;;;;;;;
-1;123;Gabriel Taborda Farias;Masculino;12/05/2001;55997358826;55997358826;gabrielfariasbass@gmail.com;gabrieltfarias@aluno.santoangelo.uri.br;www.github.com;Estudante;10;Noturno;3156.15;5134.51;4
-2;321;Roberto;Masculino;12/12/2000;55997558275;55997558275;robertinho@gmail.com;robertinho@gmail.com;www.masterpiano.com;Mecânico;8;Diurno;5283.61;5616.51;12
