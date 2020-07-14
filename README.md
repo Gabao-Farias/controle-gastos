@@ -43,5 +43,5 @@ This is a basic project made to control and map, where the user's money is comin
 
 ### ☑️ Requirements to Run
 * Need to have installed the Java jre in your machine
-* Need to have the db_users.txt and db_registers.txt on root path of the .jar executable file, and those database files must have the headers already set (these are already set actually)
+* Need to have the db_users.txt and db_registers.txt on root path of the .jar executable file
 
