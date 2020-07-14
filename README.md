@@ -13,7 +13,7 @@
 * [Features](###-features)
 * [Technologies](###-technologies-involved)
 * [Platforms](###-platforms)
-* [Requirements](###-requirements-to-run)
+* [Requirements to Run](###-☑️-requirements-to-run)
 
 ### ℹ️ About
 This is a basic project made to control and map, where the user's money is coming from or going to.
