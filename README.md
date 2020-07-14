@@ -3,6 +3,7 @@
 <h1 align="center">
  <img src="https://img.shields.io/badge/Usability-Easy-brightgreen">
  <img src="https://img.shields.io/badge/Useful-80-42b">
+ <img src="https://img.shields.io/badge/Database-local-orange">
 </h1>
 
 <p align="center">This project has been made for a work in the Computer Science course (Programming Language III) in the University (Universidade Regional Integral do Alto Uruguai e das Missões), from Santo Ângelo RS.</p>
@@ -13,6 +14,7 @@
 * [Features](#-features)
 * [Technologies](#%EF%B8%8F-technologies-involved)
 * [Platforms](#-platforms)
+* [Database Management]()
 * [Requirements to Run](#%EF%B8%8F-requirements-to-run)
 
 ### ℹ️ About
@@ -38,10 +40,15 @@ This is a basic project made to control and map, where the user's money is comin
 ### ⚙️ Technologies involved
 * [Java](https://www.java.com/pt_BR/) ☕
 
+### 💾 Database management
+* There are two classes wich manages these files, BD_Registros and BD_Usuarios.java
+ * BD_Registros is responsible for *R/W* of the registers file
+ * BD_Usuarios is responsible for *R/W* of the users file
+
 ### 📵 Platforms
 * PC only 🖥️
 
 ### ☑️ Requirements to Run
 * Need to have installed the Java jre in your machine
-* Need to have the db_users.txt and db_registers.txt on root path of the .jar executable file
+* Need to have the db_users.txt and db_registers.txt **exclusively** on root path of the .jar executable file
 
