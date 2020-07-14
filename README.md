@@ -8,7 +8,7 @@
 <p align="center">This project has been made for a work in the Computer Science course (Programming Language III) in the University (Universidade Regional Integral do Alto Uruguai e das Missões), from Santo Ângelo RS.</p>
 
 ## Summary
-* [About](###-about)
+* [About](%EF%B8%8F-about)
 * [Screenshots](#%EF%B8%8F-screenshots)
 * [Features](###-features)
 * [Technologies](###-technologies-involved)
