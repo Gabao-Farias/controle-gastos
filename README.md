@@ -13,7 +13,7 @@
 * [Screenshots](#%EF%B8%8F-screenshots)
 * [Features](#-features)
 * [Technologies](#%EF%B8%8F-technologies-involved)
-* [Platforms](#-platforms)
+* [Platforms](#%EF%B8%8F-platforms)
 * [Database Management](#-database-management)
 * [Requirements to Run](#%EF%B8%8F-requirements-to-run)
 
@@ -45,7 +45,7 @@ This is a basic project made to control and map, where the user's money is comin
   * BD_Registros is responsible for *R/W* of the registers file
   * BD_Usuarios is responsible for *R/W* of the users file
 
-### 📵 Platforms
+### 🖥️ Platforms
 * PC only 🖥️
 
 ### ☑️ Requirements to Run
