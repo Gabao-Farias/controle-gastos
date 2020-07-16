@@ -2,8 +2,7 @@
 
 <h1 align="center">
  <img src="https://img.shields.io/badge/Usability-Easy-brightgreen">
- <img src="https://img.shields.io/badge/Useful-80-42b">
- <img src="https://img.shields.io/badge/Database-local-orange">
+ <img src="https://img.shields.io/badge/Database-Local-orange">
  <img src="https://img.shields.io/badge/Exportable-CSV-blue">
 </h1>
 
