@@ -50,6 +50,6 @@ This is a basic project made to control and map, where the user's money is comin
 * PC only 🖥️
 
 ### ☑️ Requirements to Run
-* Need to have installed the Java jre in your machine
+* Need to have installed the [Java Runtime Environment](https://www.java.com/pt_BR/download/) in your machine
 * Need to have the db_users.txt and db_registers.txt **exclusively** on root path of the .jar executable file
 
