@@ -4,6 +4,7 @@
  <img src="https://img.shields.io/badge/Usability-Easy-brightgreen">
  <img src="https://img.shields.io/badge/Database-Local-orange">
  <img src="https://img.shields.io/badge/Exportable-CSV-blue">
+ <img src="https://img.shields.io/badge/Charset-UTF8-blue">
 </h1>
 
 <p align="center">This project has been made for a work in the Computer Science course (Programming Language III) in the University (Universidade Regional Integral do Alto Uruguai e das Missões), from Santo Ângelo RS.</p>
