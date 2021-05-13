@@ -37,7 +37,6 @@ This is a basic project made to control and map, where the user's money is comin
   * Every time the registers table changes, the total value refreshes
 * When user deletes himself, the same happens with all his registers, so, be warned
 * Data exportable to csv file, so you can use this data with other softwares like Excel, MySQL...
-* Admin powers 🔧 (still building...) 🏗️
 
 ### ⚙️ Technologies involved
 * [Java](https://www.java.com/pt_BR/) ☕
